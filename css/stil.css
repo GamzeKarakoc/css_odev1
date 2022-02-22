@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.menu {
+    padding: 10px;
+    text-align: center;
+}
+
+.menu a {
+    color: #8a3242;
+    padding: 5px 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+.menu a:focus {
+    color: orange;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+.text{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
+
+.tarif {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .hakkimizda{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
